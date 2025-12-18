@@ -2726,3 +2726,6 @@ Info: restool resources compile success.
 [2025-12-18T14:22:00.471] [DEBUG] debug-file - Current resident worker size: 2.
 [2025-12-18T14:22:00.472] [DEBUG] debug-file - hvigor build process will be closed.
 [2025-12-18T14:22:00.475] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2025-12-18T14:22:00.475] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2025-12-18T14:22:00.476] [DEBUG] debug-file - worker[0] exits with exit code 0.
+[2025-12-18T14:22:00.477] [DEBUG] debug-file - worker[1] exits with exit code 0.
