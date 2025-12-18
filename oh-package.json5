@@ -1,0 +1,9 @@
+{
+  "name": "myapplication",
+  "modelVersion": "5.0.0",
+  "description": "Please describe the basic information.",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

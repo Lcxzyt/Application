@@ -1,0 +1,16 @@
+{
+  "entry\\src\\main\\ets\\entryability\\EntryAbility.ets": [
+    "ohos.app.ability.UIAbility",
+    "ohos.hilog"
+  ],
+  "entry\\src\\main\\ets\\pages\\BottomDrawerSlideCase.ets": [
+    "ohos.util.json"
+  ],
+  "entry\\src\\main\\ets\\utils\\WindowModel.ets": [
+    "ohos.window",
+    "ohos.display"
+  ],
+  "entry\\src\\main\\ets\\utils\\Logger.ets": [
+    "ohos.hilog"
+  ]
+}

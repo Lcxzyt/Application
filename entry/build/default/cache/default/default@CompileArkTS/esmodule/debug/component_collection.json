@@ -1,0 +1,33 @@
+{
+  "entry\\src\\main\\ets\\entryability\\EntryAbility.ets": [
+    "If"
+  ],
+  "entry\\src\\main\\ets\\utils\\GlobalContext.ets": [
+    "If"
+  ],
+  "entry\\src\\main\\ets\\pages\\BottomDrawerSlideCase.ets": [
+    "Stack",
+    "RelativeContainer",
+    "List",
+    "ListItem",
+    "Column",
+    "Row",
+    "Blank",
+    "Text",
+    "Span",
+    "Image",
+    "ForEach",
+    "If"
+  ],
+  "entry\\src\\main\\ets\\view\\ComComponent.ets": [
+    "Row",
+    "Image",
+    "Text",
+    "Column",
+    "PanGesture",
+    "Blank"
+  ],
+  "entry\\src\\main\\ets\\utils\\WindowModel.ets": [
+    "If"
+  ]
+}
